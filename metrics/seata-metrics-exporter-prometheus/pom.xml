@@ -28,7 +28,7 @@
     <name>seata-metrics-exporter-prometheus ${project.version}</name>
 
     <properties>
-        <prometheus.client.version>0.6.0</prometheus.client.version>
+        <prometheus.client.version>0.12.0</prometheus.client.version>
     </properties>
 
     <dependencies>
