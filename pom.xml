@@ -133,7 +133,7 @@
         <mysql8.jdbc.version>8.0.19</mysql8.jdbc.version>
 
         <!-- for kotlin  -->
-        <kotlin.version>1.4.0</kotlin.version>
+        <kotlin.version>1.5.31</kotlin.version>
     </properties>
 
     <!--test-->
