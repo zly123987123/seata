@@ -106,7 +106,7 @@
         <postgres.client.version>42.1.4</postgres.client.version>
         <h2.version>1.4.181</h2.version>
         <motan.version>1.0.0</motan.version>
-        <jackson.version>2.9.9</jackson.version>
+        <jackson.version>2.9.10.8</jackson.version>
         <jcommander.version>1.72</jcommander.version>
         <annotation.api.version>1.2</annotation.api.version>
         <xz.version>1.8</xz.version>
@@ -126,7 +126,7 @@
         <kryo-serializers.version>0.42</kryo-serializers.version>
         <hessian.version>4.0.63</hessian.version>
         <fst.version>2.57</fst.version>
-        <groovy.version>2.4.4</groovy.version>
+        <groovy.version>2.4.7</groovy.version>
         <mariadb.version>2.7.2</mariadb.version>
         <zstd.version>1.5.0-4</zstd.version>
     </properties>
