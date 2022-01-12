@@ -96,7 +96,7 @@
         <javax-inject.version>1</javax-inject.version>
         <archaius-core.version>0.7.6</archaius-core.version>
         <sofa.registry.version>5.2.0</sofa.registry.version>
-        <httpclient.version>4.5.8</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <httpcore.version>4.4.11</httpcore.version>
         <antlr4.version>4.8</antlr4.version>
         <druid.version>1.2.6</druid.version>
@@ -119,8 +119,8 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <protobuf.version>3.7.1</protobuf.version>
-        <grpc.version>1.17.1</grpc.version>
+        <protobuf.version>3.16.1</protobuf.version>
+        <grpc.version>1.41.2</grpc.version>
         <junit.version>4.12</junit.version>
         <kryo.version>4.0.2</kryo.version>
         <kryo-serializers.version>0.42</kryo-serializers.version>
