@@ -48,7 +48,7 @@
     "react": "^16.3.0"
   },
   "dependencies": {
-    "@antv/g6": "^2.2.6",
+    "@antv/g6": "^3.3.0",
     "codemirror": "^5.55.0",
     "core-js": "^3.6.5",
     "lodash": "^4.17.10",
