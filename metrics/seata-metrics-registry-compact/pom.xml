@@ -20,7 +20,7 @@
     <parent>
         <artifactId>seata-metrics</artifactId>
         <groupId>io.seata</groupId>
-        <version>${revision}</version>
+        <version>1.5.0</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
