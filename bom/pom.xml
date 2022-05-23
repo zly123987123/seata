@@ -61,7 +61,7 @@
 
     <properties>
         <spring.version>4.3.23.RELEASE</spring.version>
-        <netty4.version>4.1.30.Final</netty4.version>
+        <netty4.version>4.1.42.Final</netty4.version>
         <dubbo.version>2.7.15</dubbo.version>
         <dubbo.alibaba.version>2.6.5</dubbo.alibaba.version>
         <sofa.rpc.version>5.5.3</sofa.rpc.version>
@@ -101,7 +101,7 @@
         <caffeine.version>2.7.0</caffeine.version>
         <oracle.client.version>10.2.0.3.0</oracle.client.version>
         <mysql.client.version>5.1.35</mysql.client.version>
-        <postgres.client.version>42.1.4</postgres.client.version>
+        <postgres.client.version>42.3.3</postgres.client.version>
         <h2.version>1.4.181</h2.version>
         <motan.version>1.0.0</motan.version>
         <jackson.version>2.9.9</jackson.version>
